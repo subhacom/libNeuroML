@@ -28,3 +28,12 @@ the file small (<1 Mb). Remember, we are looking only for an example here.
     - geometry branch --> NeuroML 1.8.1 (here only a cell, but 
       theoretically can hold anything NeuroML can keep)
     - results branch --> Numpy array arranged according section_name/var_name
+
+- dataviz_data_example.h5   Subhasis Ray
+
+  Data format used for dataviz application. This puts individual fields
+  correspond to groups and the timeseries from each cells soma is a dataset.
+
+- dataviz_network_example.h5   Subhasis Ray
+
+  Data format for network connectivity information used in dataviz.
